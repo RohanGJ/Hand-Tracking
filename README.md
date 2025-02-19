@@ -16,3 +16,6 @@ Install requirements.txt by
 
 ```pip install -r requirements.txt```
 
+Copy the files after downloading them into the same folder where you created your venv
+
+Note : make sure to select the kernal as the python enviornment you just created
